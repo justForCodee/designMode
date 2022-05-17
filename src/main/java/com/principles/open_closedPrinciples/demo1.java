@@ -1,4 +1,4 @@
-package principles.open_closedPrinciples;
+package com.principles.open_closedPrinciples;
 
 /**
  * @ClassName: demo1

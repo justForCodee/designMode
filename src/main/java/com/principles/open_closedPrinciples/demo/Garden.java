@@ -1,4 +1,4 @@
-package principles.open_closedPrinciples.demo;
+package com.principles.open_closedPrinciples.demo;
 
 /**
  * @ClassName: Garden
